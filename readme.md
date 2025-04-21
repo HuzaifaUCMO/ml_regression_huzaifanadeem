@@ -9,8 +9,8 @@ This project explores regression techniques to predict a car’s fuel efficiency
 
 ## 📘 Project Files
 
-- 📓 [Final Notebook (`regression_huzaifanadeem.ipynb`)](https://github.com/HuzaifaUCMO/ml_regression_huzaifanadeem/blob/main/regression_huzaifanadeem.ipynb)  
-- 📝 [Peer Review (`peer_review.md`)](https://github.com/HuzaifaUCMO/ml_regression_huzaifanadeem/blob/main/peer_review.md)
+- 📓 [Final Notebook (`regression_huzaifanadeem.ipynb`)](https://github.com/HuzaifaUCMO/ml_regression_huzaifanadeem/blob/master/regression_huzaifanadeem.ipynb)  
+- 📝 [Peer Review (`peer_review.md`)](https://github.com/HuzaifaUCMO/ml_regression_huzaifanadeem/blob/master/peer_review.md)
 
 ---
 
