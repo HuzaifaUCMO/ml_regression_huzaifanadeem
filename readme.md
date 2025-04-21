@@ -1,71 +1,71 @@
-Final Project: Regression Analysis – Predicting Fuel Efficiency
-Author: Huzaifa Nadeem
-Date: April 21, 2025
+# Final Project: Regression Analysis – Predicting Fuel Efficiency
 
-This project explores regression techniques to predict a car’s fuel efficiency (measured in MPG) based on other numerical features like weight, horsepower, displacement, and more. Using the Auto MPG dataset from the UCI Machine Learning Repository, I trained multiple regression models and evaluated them using performance metrics like R² and RMSE. I also implemented and compared pipelines including polynomial regression.
+**Author:** Huzaifa Nadeem  
+**Date:** April 21, 2025
 
-📘 Project Files
-📓 Final Notebook (regression_huzaifanadeem.ipynb)
+This project explores regression techniques to predict a car’s fuel efficiency (measured in MPG) based on numerical features like weight, horsepower, displacement, and more. Using the Auto MPG dataset from the UCI Machine Learning Repository, I trained multiple regression models and evaluated them using metrics like R² and RMSE. I also implemented and compared pipelines including polynomial regression.
 
-📝 Peer Review
+---
 
-🧪 How to Run Locally
-Clone the Repository:
+## 📘 Project Files
 
-bash
-Copy
-Edit
-git clone https://github.com/HuzaifaUCMO/ml_regression_huzaifanadeem.git
-cd ml_regression_huzaifanadeem
-Set Up a Virtual Environment:
+- 📓 [Final Notebook (`regression_huzaifanadeem.ipynb`)](https://github.com/HuzaifaUCMO/ml_regression_huzaifanadeem/blob/main/regression_huzaifanadeem.ipynb)  
+- 📝 [Peer Review (`peer_review.md`)](https://github.com/HuzaifaUCMO/ml_regression_huzaifanadeem/blob/main/peer_review.md)
 
-bash
-Copy
-Edit
-python -m venv .venv
-Activate the Virtual Environment:
+---
 
-On Windows:
+## 🧪 How to Run Locally
 
-bash
-Copy
-Edit
-.venv\Scripts\activate
-On Mac/Linux:
+1. **Clone the Repository:**
 
-bash
-Copy
-Edit
-source .venv/bin/activate
-Install Dependencies:
+   ```bash
+   git clone https://github.com/HuzaifaUCMO/ml_regression_huzaifanadeem.git
+   cd ml_regression_huzaifanadeem
+   ```
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Notebook:
+2. **Set Up a Virtual Environment:**
 
-bash
-Copy
-Edit
-jupyter notebook
-Open regression_huzaifanadeem.ipynb in your browser and run the notebook.
+   ```bash
+   python -m venv .venv
+   ```
 
-📂 Dataset
-The Auto MPG dataset is stored in the data folder. It includes features like:
+3. **Activate the Virtual Environment:**
 
-Cylinders
+   - On Windows:
+     ```bash
+     .venv\Scripts\activate
+     ```
+   - On Mac/Linux:
+     ```bash
+     source .venv/bin/activate
+     ```
 
-Displacement
+4. **Install Dependencies:**
 
-Horsepower
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Weight
+5. **Run the Notebook:**
 
-Acceleration
+   ```bash
+   jupyter notebook
+   ```
 
-Model Year
+   Open `regression_huzaifanadeem.ipynb` in your browser and run the notebook.
 
-Origin
+---
 
-Target variable: mpg
+## 📂 Dataset
+
+The Auto MPG dataset is stored in the `data` folder. It includes features such as:
+
+- Cylinders  
+- Displacement  
+- Horsepower  
+- Weight  
+- Acceleration  
+- Model Year  
+- Origin  
+
+**Target variable:** `mpg`
