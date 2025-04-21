@@ -1,3 +1,7 @@
+
+https://github.com/trentrueckert/ml_regression_trentrueckert
+
+
 1. Clarity & Organization
 The notebook is well-structured, following a logical progression from data loading to model evaluation. Each section is clearly labeled, and the use of Markdown cells enhances readability. The inclusion of visualizations, such as histograms and scatter plots, aids in understanding the data distribution and relationships between variables.
 
